@@ -17,7 +17,7 @@
     }
   </style>
 <video autoplay muted loop id="bg-video">
-  <source src="Video.mp4" type="video/mp4">
+  <source src="gfp-astro-timelapse.mp4" type="video/mp4">
 </video>
 <nav  class="navbar">
   <div class="container">
