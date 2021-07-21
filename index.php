@@ -32,7 +32,7 @@ include("connection.php");
       <div style="background: transparent;" class="jumbotron photo-cover text-white">
         <div id="hero" class="container">
           <div class="col-md-6 text-left">
-            <h1 style="color: aliceblue; font-weight: bold; font-family: Montserrat;">Swiss Bank</h1>
+            <h1 style="color: aliceblue; font-weight: bold; font-family: Montserrat;">Sparks Bank</h1>
             <div id="buttons">
               <a href="customers.php">
                 <button class="btn btn-primary">
