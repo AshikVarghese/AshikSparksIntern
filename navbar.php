@@ -26,7 +26,7 @@
       <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false">
         <span class="sr-only">Toggle navigation</span>
       </button>
-      <a style="font-weight: bold; font-family: Montserrat;"class="navbar-brand" href="index.php" >Swiss Bank</a>
+      <a style="font-weight: bold; font-family: Montserrat;"class="navbar-brand" href="index.php" >Sparks Bank</a>
     </div> <!-- .navbar-header -->
     <div class="collapse navbar-collapse" id="navbar">
       <ul style="font-weight: bold; font-family: Montserrat;" class="nav text-white navbar-nav navbar-right">
